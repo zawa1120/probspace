@@ -1,5 +1,5 @@
 # ProbSpace_給与推定
-- ProbSpaceのコンペティション(https://prob.space/competitions/salary-prediction)に参加した時のものです。
+- ProbSpaceのコンペティション (https://prob.space/competitions/salary-prediction) に参加した時のものです。
 - zawa1120で参加しています。
 - 最終順位は62位でした。
 
